@@ -1,0 +1,10 @@
+Package: com.antique.luminous
+Name: Luminous
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Dark Snapchat for v10.24.5
+Maintainer: Antique <boernai290@gmail.com>
+Author: Antique <boernai290@gmail.com
+Section: Tweaks
+Version: 0.0.1-19+debug
+Installed-Size: 208
